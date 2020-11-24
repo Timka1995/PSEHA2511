@@ -1,0 +1,18 @@
+<html
+
+<head>
+<meta charset="utf-8"/>
+<link rel=„Cssheet“ href=„myCss.css“>
+
+</head>
+
+<body>
+
+<h1>Hausaufgabe für PSE/h1>
+<p style="color:black“>Abgabe Dienstag</p>
+<p style="color:black“; class="override" >
+"!important"</p>
+
+<p style="color:black“>Reicht das?</p>
+</body>
+</html>
