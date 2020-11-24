@@ -4,21 +4,21 @@ body {
 
 }
 
-h2 {
+h1 {
 
   color: black;
 
   border-color: white;
 
-  border-width: 10px;
+  border-width: 5px;
 
   border-style: solid;
 
 }
 
-p{
+a{
 
-  color: blue;
+  color: green;
 
 }
 
