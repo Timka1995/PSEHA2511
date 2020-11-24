@@ -4,21 +4,22 @@ body {
 
 }
 
-h1 {
+h2 {
 
-  color: black
+  color: black;
+
+  border-color: white;
+
 
 }
 
-p {
+p{
 
-  color: black;
+  color: blue;
 
 }
 
 
 .override {
 
-  color:black !important;
-
-}​
+  color:red !important;
